@@ -1,0 +1,11 @@
+nelmio_api_doc:
+  documentation:
+    info:
+      title: MOM APP
+      description: Mini Order Management API for E-Shop
+      version: 1.0.0
+
+  areas:
+    default:
+      path_patterns:
+        - ^/api(?!/doc$)

@@ -5,3 +5,5 @@
 /var/log/
 /var/tmp/
 /var/test/
+
+.env.local
